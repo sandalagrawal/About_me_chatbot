@@ -1,0 +1,21 @@
+streamlit
+openai
+pyttsx3
+faiss-cpu
+chromadb
+whisper 
+sentence-transformers
+pydub
+pywin32; platform_system == "Windows"
+audio_recorder_streamlit
+streamlit-float
+pinecone
+tiktoken
+langchain-community 
+langchain
+pypdf
+langchain-openai
+langchain-chroma>=0.1.2
+gTTS
+SpeechRecognition
+python-dotenv
